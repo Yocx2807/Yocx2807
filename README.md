@@ -1,4 +1,4 @@
-![Banner](Blue Modern Company Slogan LinkedIn Banner.png)
+![Banner](banner.png)
 
 # # 👋 Hi, I'm Yocxany
 
