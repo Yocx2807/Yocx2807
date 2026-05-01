@@ -1,4 +1,4 @@
-[Banner](banner.png)
+![Banner](baner.png)
 
 # # 👋 Hi, I'm Yocxany
 
