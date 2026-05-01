@@ -1,4 +1,4 @@
-![Banner](img.backgrongd.png)
+![Banner](img.backgroungd.png)
 
 # # 👋 Hi, I'm Yocxany
 
